@@ -11,13 +11,19 @@ concept: exploring the concept of purok in internet age
 Virtual Projects
 
 *Cyber_Purok*: Salawakii (Siquijor) - purok map
+
 *Digital Placards*: Gab Ferrer (Dumaguete) - purok bulletin board
+
 *Sari-Sari-Shop*: Franco Mamaril (Laguna) - community store
+
 *Power Plant*: Luyo Space (Bogo) - purok reading material
+
+
 
 IOTs and physical installations
 
 *GhostWhisper*: KoloWn x Roan Alvarez
+
 *Climaglow*: Rhaz Oriente
 
 
