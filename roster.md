@@ -1,14 +1,17 @@
 official google drive:
 https://drive.google.com/drive/u/1/folders/1enu3waUYiQmSOiSB05WqAAGUjCZth_lo
 
+---
 
 **Roster**
 
 ESC Cyber_Purok 
 concept: exploring the concept of purok in internet age
 
+---
+---
 
-Virtual Projects
+**Virtual Projects**
 
 *Cyber_Purok*: Salawakii (Siquijor) - purok map
 
@@ -18,9 +21,9 @@ Virtual Projects
 
 *Power Plant*: Luyo Space (Bogo) - purok reading material
 
+---
 
-
-IOTs and physical installations
+**IOTs and physical installations**
 
 *GhostWhisper*: KoloWn x Roan Alvarez
 
