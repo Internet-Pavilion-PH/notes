@@ -1,4 +1,7 @@
 **DRAFT**
+official google drive:
+https://drive.google.com/drive/u/1/folders/1enu3waUYiQmSOiSB05WqAAGUjCZth_lo
+
 
 Moving forward, the Internet Pavilion will be called *Low Bandwidth Dreams*. The title was suggested by Franco and received the most votes in the messenger poll. The aim of the Low Bandwidth Dreams remains the same: to explore the internet as a space and its protocol as a medium within the context of contemporary art in the Philippines.
 
