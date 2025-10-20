@@ -11,7 +11,8 @@ Roan Alvarez (b. 1995) is a visual artist who primarily works with intermedia an
 Luyo_Space (Bogo, Cebu) mission is to be fundamentally connected in the purest natural terms and ways and by being sustainably directed with art and creative practices enmeshed with food systems and culture
 
 ----
-Gab Ferrer
-an artist from Dumaguete
+Gab Ferrer (b.1993)
+Currently based in Valencia, Negros Oriental and works as a kindergarten teacher at Tikarol Waldorf Homeschool. Her art practice does not always involve making material work -- recently discovering pedagogical art, wherein teaching and guiding children to be the best version of themselves would be the ‘work of art’. Before her teaching stint, she dabbled into making and selling good tinapa (smoked fish). When not sidetrack with errands and layers of interests, she works in her room, almost like writing in diary pages -- often reflecting where she’s at and what she’s up to: perpetually paying extraordinary attention to ordinary things.
+
 ----
 KoloWn - est 2007, multi-faceted entity that encompases an artist, human network, communication network protocol, web apps and a future laundry shop
