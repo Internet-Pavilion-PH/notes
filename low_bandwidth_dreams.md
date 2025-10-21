@@ -3,7 +3,8 @@
 
 duration: October 2025 - October 2026
 
-aim of this iteration
+aim of this iteration:
+
 1.
 
 2.
