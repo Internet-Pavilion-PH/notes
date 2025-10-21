@@ -16,6 +16,7 @@ aim of this iteration:
 - Sharing and collaboration is the essence; we want to break from the closed and individualistic nature of the art scene.
 - All codes should be open-source and we encourage using Git and GitHub for collaborations.
 - This is not a permanent organization and we should disband after our project duration, which is a maximum of one year.
-- After a year, it is up to us to determine our individual priorities if we build another iteration. - - Everyone is also free to leave whenever they want. We also welcome anyone who wants to contribute in any form.
+- After a year, it is up to us to determine our individual priorities if we build another iteration.
+-  Everyone is also free to leave whenever they want. We also welcome anyone who wants to contribute in any form.
 - Many of us have  dayjobs, family and art practice, we value any form of contribution from design, code, review, writing, editing, etc.
 - If money is involved, it should be transparent. 
