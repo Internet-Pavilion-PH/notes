@@ -5,13 +5,13 @@
 
 ----
 
-![Rhaz](https://raw.githubusercontent.com/Internet-Pavilion-PH/notes/refs/heads/main/ArtistPhotos/Rhaz.JPG)
+![Rhaz](https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/Rhaz.JPG?raw=true)
 
 **Rhaz Oriente** is a visual artist based in Manila whose work explores memory, atmosphere, and the poetics of disappearance. Working with light, glass, and responsive materials, their installations reflect on perception, time, and the environmental trace. Oriente often blends abstraction, image fragments, and spatial interventions to surface what is fleeting, layered, or erased.
 
 ----
 
-![Franco](https://raw.githubusercontent.com/Internet-Pavilion-PH/notes/7732d521f5c10081fa8c96bcf5a9ce2697e7d1be/ArtistPhotos/Franco.jpeg)
+![Franco](https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/Franco.jpeg?raw=true)
 
 **Franco Mamaril**, based in Laguna, PH, is a graffiti writer, VJ, DJ, new media artist and a barista.
 
