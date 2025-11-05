@@ -7,7 +7,7 @@
 
 ![Rhaz](ArtistPhotos/Rhaz.JPG)
 
-**Rhaz Oriente** \[TO BE UPDATED\]
+**Rhaz Oriente** is a visual artist based in Manila whose work explores memory, atmosphere, and the poetics of disappearance. Working with light, glass, and responsive materials, their installations reflect on perception, time, and the environmental trace. Oriente often blends abstraction, image fragments, and spatial interventions to surface what is fleeting, layered, or erased.
 
 ----
 
@@ -19,7 +19,7 @@
 
 ![Roan](ArtistPhotos/Roan-Alvarez_Artist-Photo_Cropped.png)
 
-**Roan Alvarez** (b. 1995) is a visual artist who primarily works with intermedia and transmedia. Through physical computing, Alvarez explores the sociopolitical effects of technology on identities, self-presentation, and culture. Her interactive works often involve the use of light-emitting technologies, microcontrollers, sensors, and other electronic components, which allow the audience to participate in diverse narratives concerning human-technology relations.
+**Roan Alvarez** (based in Cavite and Manila) is a visual artist who primarily works with intermedia and transmedia. Through physical computing, Alvarez explores the sociopolitical effects of technology on identities, self-presentation, and culture. Her interactive works often involve the use of light-emitting technologies, microcontrollers, sensors, and other electronic components, which allow the audience to participate in diverse narratives concerning human-technology relations.
 
 ----
 
