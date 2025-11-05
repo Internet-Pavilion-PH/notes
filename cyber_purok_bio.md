@@ -11,7 +11,7 @@
 
 ----
 
-![Franco](ArtistPhotos/Franco.jpeg)
+![Franco]([ArtistPhotos/Franco.jpeg](https://github.com/Internet-Pavilion-PH/notes/blob/7732d521f5c10081fa8c96bcf5a9ce2697e7d1be/ArtistPhotos/Franco.jpeg))
 
 **Franco Mamaril**, based in Laguna, PH, is a graffiti writer, VJ, video, and new media artist.
 
