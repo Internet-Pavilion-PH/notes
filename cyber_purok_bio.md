@@ -5,7 +5,7 @@
 
 ----
 
-![Rhaz](ArtistPhotos/Rhaz.JPG)
+![Rhaz](https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/Rhaz.JPG?raw=true)
 
 **Rhaz Oriente** is a visual artist based in Manila whose work explores memory, atmosphere, and the poetics of disappearance. Working with light, glass, and responsive materials, their installations reflect on perception, time, and the environmental trace. Oriente often blends abstraction, image fragments, and spatial interventions to surface what is fleeting, layered, or erased.
 
