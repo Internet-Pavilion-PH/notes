@@ -5,6 +5,12 @@ Salawaki is a digital artists working on 3d, NFTs, and the broad internet. She l
 
 ----
 
+![Rhaz](ArtistPhotos/Rhaz.JPG)
+
+Rhaz Oriente
+
+----
+
 ![Franco](ArtistPhotos/Franco.jpeg)
 
 Franco Mamaril, based in Laguna, PH, is a graffiti writer, VJ, video, and new media artist.
@@ -13,7 +19,7 @@ Franco Mamaril, based in Laguna, PH, is a graffiti writer, VJ, video, and new me
 
 ![Roan](ArtistPhotos/Roan-Alvarez_Artist-Photo_Cropped.png)
 
-Roan Alvarez (b. 1995) is a visual artist who primarily works with intermedia and transmedia. Through physical computing, Alvarez explores the sociopolitical effects of technology on identities, self-presentation, and culture. Her interactive works often involve the use of light-emitting technologies, microcontrollers, sensors, and other electronic components, which allow the audience to participate in diverse narratives concerning human-technology relations. Alvarez earned her Bachelor of Fine Arts degree from the University of the Philippines Diliman in 2015.
+Roan Alvarez (b. 1995) is a visual artist who primarily works with intermedia and transmedia. Through physical computing, Alvarez explores the sociopolitical effects of technology on identities, self-presentation, and culture. Her interactive works often involve the use of light-emitting technologies, microcontrollers, sensors, and other electronic components, which allow the audience to participate in diverse narratives concerning human-technology relations.
 
 ----
 
