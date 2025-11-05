@@ -1,5 +1,5 @@
 
-![Salawaki]()
+![Salawaki](https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/salawakii.jpg?raw=true)
 
 **Salawaki** is a digital artists working on 3d, NFTs, and the broad internet. She lives in between Siquijor and Davao. She co-founded Internet Pavilion PH Islands in 2020.
 
@@ -23,7 +23,7 @@
 
 ----
 
-![Luyo]()
+![Luyo](https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/luyo.jpg?raw=true)
 
 **Luyo_Space** (Bogo, Cebu) mission is to be fundamentally connected in the purest natural terms and ways and by being sustainably directed with art and creative practices enmeshed with food systems and culture
 
