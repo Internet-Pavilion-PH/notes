@@ -1,22 +1,22 @@
 
-*Low Bandwidth Dreams* explores the internet as both medium and space in the context of Philippine contemporary art. It is the successor of the Philippine Islands Internet Pavilion (2020, 2024, 2025).
+*Low Bandwidth Dreams* is an online, peer-led study group that explores the internet as both medium and space in the context of contemporary art. It is the successor of the Philippine Islands Internet Pavilion (2020, 2024, 2025).
 
-duration: October 2025 - October 2026
+Duration: October 2025 — October 2026
+---
 
-aim of this iteration:
+In this iteration, we will explore:
+- How can artists take skills and inspiration from tech workers to develop collaborative practices? (GitHub)
+- How can we explore the internet beyond the limits of a screen? (GhostWhisper, Aninipot)
+- How can we use open-source tools to craft tactile works for offline communities? (Power Plant)
+- How can we use the internet to amplify our voices? (Panawagan Banner, GhostWhisper)
+- How can we use available tools to critique the internet itself? (Yellow Basket)
+- How can our individual, distinct projects be interconnected and amplify each other? (Cyber_Purok)
 
-1.
-
-2.
-
-----
-
-## guidelines
-- All decisions are decided by votes, with no central curator/organizer, and voting power is determined by your contributions. The highest is 2 and the lowest is 1.
-- Sharing and collaboration is the essence; we want to break from the closed and individualistic nature of the art scene.
-- All codes should be open-source and we encourage using Git and GitHub for collaborations.
-- This is not a permanent organization and we should disband after our project duration, which is a maximum of one year.
-- After a year, it is up to us to determine our individual priorities if we build another iteration.
--  Everyone is also free to leave whenever they want. We also welcome anyone who wants to contribute in any form.
-- Many of us have  dayjobs, family and art practice, we value any form of contribution from design, code, review, writing, editing, etc.
-- If money is involved, it should be transparent. 
+## Basic Guidelines for Participants
+- All decisions are made by vote; there is no central curator or organizer. Voting power is determined by contributions (highest = 2, lowest = 1).
+- Sharing and collaboration are essential; we want to counter the closed and individualistic nature of the art scene.
+- All code should be open source. We encourage using Git and GitHub for collaboration.
+- This is not a permanent organization; we will disband after the project duration.Whether there will be another iteration depends on the group and its new explorations.
+- Everyone is free to leave at any time, fork the code and projects, and we welcome contributions in any form.
+- Many of us have day jobs, family responsibilities, and art practices; we value any form of contribution (design, code, review, writing, editing, etc.).
+- If money is involved, transactions should be transparent.
