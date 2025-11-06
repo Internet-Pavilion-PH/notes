@@ -13,10 +13,11 @@ Roan - 2 votes
 Franco -2 votes
 KoloWn - 2 votes
 
-Mirjam -1 vote
+Mirjam - 1 vote
 Rhaz - 1 vote
-Ronyel -1 vote
+Ronyel - 1 vote
 Gab - 1 vote
+Bea - 1 vote
 
 -----
 
