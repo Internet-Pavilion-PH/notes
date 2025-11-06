@@ -10,7 +10,7 @@
 Voting Power:
 Julius - 2 votes
 Roan - 2 votes
-Franco -2 votes
+Franco - 2 votes
 KoloWn - 2 votes
 
 Mirjam - 1 vote
