@@ -1,4 +1,4 @@
-## Internet Pavilion votation system
+## Low Bandwidth Dreams votation system
 
 - no curator/ organizer all has voting power for the decissions
 
@@ -23,4 +23,6 @@ Bea - 1 vote
 
 ## October votation
 - use Low Bandwidth Dreams as project name - majority vote
-- 
+
+## November votation
+ - cyber_purok_bio.md
