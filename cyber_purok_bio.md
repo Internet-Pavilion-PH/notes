@@ -1,31 +1,31 @@
 
 ![Salawaki](https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/salawakii.jpg?raw=true)
 
-**Salawaki** is a digital artists working on 3d, NFTs, and the broad internet. She lives in between Siquijor and Davao. She co-founded Internet Pavilion PH Islands in 2020.
+**Salawaki** (Siquijor/Davao) is a digital artists working on 3d, NFTs, and the broad internet. She lives in between Siquijor and Davao. She co-founded Internet Pavilion PH Islands in 2020.
 
 ----
 
 ![Rhaz](https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/Rhaz.JPG?raw=true)
 
-**Rhaz Oriente** is a visual artist based in Manila whose work explores memory, atmosphere, and the poetics of disappearance. Working with light, glass, and responsive materials, their installations reflect on perception, time, and the environmental trace. Oriente often blends abstraction, image fragments, and spatial interventions to surface what is fleeting, layered, or erased.
+**Rhaz Oriente** (Manila) is a visual artist based in Manila whose work explores memory, atmosphere, and the poetics of disappearance. Working with light, glass, and responsive materials, their installations reflect on perception, time, and the environmental trace. Oriente often blends abstraction, image fragments, and spatial interventions to surface what is fleeting, layered, or erased.
 
 ----
 
 ![Franco](https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/Franco.jpeg?raw=true)
 
-**Franco Mamaril**, based in Laguna, PH, is a graffiti writer, VJ, DJ, new media artist and a barista.
+**Franco Mamaril**(San Pedro) in Laguna, PH, is a graffiti writer, VJ, DJ, new media artist and a barista.
 
 ----
 
 ![Roan](https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/Roan-Alvarez_Artist-Photo_Cropped.png?raw=true)
 
-**Roan Alvarez** (based in Cavite and Manila) is a visual artist who primarily works with intermedia and transmedia. Through physical computing, Alvarez explores the sociopolitical effects of technology on identities, self-presentation, and culture. Her interactive works often involve the use of light-emitting technologies, microcontrollers, sensors, and other electronic components, which allow the audience to participate in diverse narratives concerning human-technology relations.
+**Roan Alvarez** (Dasmariñas) is a visual artist who primarily works with intermedia and transmedia. Through physical computing, Alvarez explores the sociopolitical effects of technology on identities, self-presentation, and culture. Her interactive works often involve the use of light-emitting technologies, microcontrollers, sensors, and other electronic components, which allow the audience to participate in diverse narratives concerning human-technology relations.
 
 ----
 
 ![Luyo](https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/luyo.jpg?raw=true)
 
-**Luyo_Space** (Bogo, Cebu) mission is to be fundamentally connected in the purest natural terms and ways and by being sustainably directed with art and creative practices enmeshed with food systems and culture
+**Luyo_Space** (Bogo City) mission is to be fundamentally connected in the purest natural terms and ways and by being sustainably directed with art and creative practices enmeshed with food systems and culture
 
 ----
 
