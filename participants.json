@@ -1,0 +1,60 @@
+[
+  {
+    "id": "salawaki",
+    "name": "Salawaki",
+    "location": "Siquijor / Davao",
+    "image": "https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/salawakii.jpg?raw=true",
+    "project": "Cyber_Purok",
+    "bio": "Digital artist working on 3D, NFTs, and internet-based projects. Lives between Siquijor and Davao. Co-founded Internet Pavilion PH Islands in 2020."
+  },
+  {
+    "id": "rhaz_oriente",
+    "name": "Rhaz Oriente",
+    "location": "Manila",
+    "image": "https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/Rhaz.JPG?raw=true",
+    "project": "Aninipot",
+    "bio": "Visual artist whose work explores memory, atmosphere, and the poetics of disappearance. Works with light, glass, and responsive materials; installations reflect on perception, time, and environmental trace. Often blends abstraction, image fragments, and spatial interventions."
+  },
+  {
+    "id": "franco_mamaril",
+    "name": "Franco Mamaril",
+    "location": "San Pedro, Laguna",
+    "image": "https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/Franco.jpeg?raw=true",
+    "project": "Yellow Basket",
+    "bio": "Graffiti writer, VJ, DJ, new media artist, and barista based in San Pedro, Laguna, PH."
+  },
+  {
+    "id": "roan_alvarez",
+    "name": "Roan Alvarez",
+    "location": "Dasmariñas",
+    "image": "https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/Roan-Alvarez_Artist-Photo_Cropped.png?raw=true",
+    "project": "Core Team, Dropcall, Aninipot",
+    "bio": "Visual artist working with intermedia and transmedia. Through physical computing, Alvarez explores the sociopolitical effects of technology on identities, self-presentation, and culture. Her interactive works often use light-emitting technologies, microcontrollers, sensors, and other electronics to invite audience participation in narratives about human-technology relations."
+  },
+  {
+    "id": "luyo_space",
+    "name": "Luyo_Space",
+    "location": "Bogo City",
+    "image": "https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/luyo.jpg?raw=true",
+    "project": "Power Plant",
+    "bio": "Mission-driven practice focused on sustainable and natural connections between art, creative practices, food systems, and culture. Based in Bogo City."
+  },
+  {
+    "id": "gab_ferrer",
+    "name": "Gab Ferrer",
+    "location": "Valencia, Negros Oriental",
+    "image": "https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/gab.jpg?raw=true",
+    "birth_year": 1993,
+    "project": "Panawagan Banner",
+    "bio": "Currently based in Valencia, Negros Oriental; works as a kindergarten teacher at Tikarol Waldorf Homeschool. Practices pedagogical art, where teaching and guiding children is considered part of her art practice. Previously made and sold tinapa (smoked fish). Her process is reflective and diaristic, paying attention to ordinary things."
+  },
+  {
+    "id": "kolown",
+    "name": "KoloWn",
+    "location": "cyberpurok",
+    "image": "https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/kolown.png?raw=true",
+    "project": "Core Team",
+    "established": 2007,
+    "bio": "Multi-faceted entity (est. 2007) that encompasses an artist, human network, communication network protocol, web apps, and a future laundry shop."
+  }
+]
