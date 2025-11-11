@@ -29,7 +29,7 @@
 
 ----
 
-![Gab]()
+![Gab](https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/gab.jpg?raw=true)
 
 **Gab Ferrer** (b.1993)
 Currently based in Valencia, Negros Oriental and works as a kindergarten teacher at Tikarol Waldorf Homeschool. Her art practice does not always involve making material work -- recently discovering pedagogical art, wherein teaching and guiding children to be the best version of themselves would be the ‘work of art’. Before her teaching stint, she dabbled into making and selling good tinapa (smoked fish). When not sidetrack with errands and layers of interests, she works in her room, almost like writing in diary pages -- often reflecting where she’s at and what she’s up to: perpetually paying extraordinary attention to ordinary things.
