@@ -44,5 +44,15 @@ The Yellow Basket project, headed by Franco Mamaril, critiques the absurdity and
 
 A purok spot map of traditional rural cottages could help us understand the general layout and relationships within purok households as a whole. In the era of metaverse research, real-time games, open worlds, and games such as Fortnite, Dota 2, and Mobile Legends, we are reminded to “always look at the map.” Advanced mapping tools allow us to zoom into tiny street details or step back to study the bigger picture and its interconnections. Could the same approach help us see how global phenomena — corruption, populism, war, crisis, and pandemics — are connected? Instead of treating these issues separately, might they be interlinked and share common roots? We do not answer those questions in this project — our emphasis is technical rather than political or philosophical — but we can borrow a line from a fictional warlord: Naruto, who said, “I learned from experience.”
 
-KoloWn 2025
+draft byKoloWn 2025
+
 text grammar cleaned by Copilot
+
+votes:
+- Julius
+- Roan
+- Mirjam
+- Franco
+- Gab
+- Ronyel
+- Rhaz
