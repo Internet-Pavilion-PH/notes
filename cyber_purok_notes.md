@@ -48,7 +48,7 @@ draft byKoloWn 2025
 
 text grammar cleaned by Copilot
 
-votes:
+votes and comments:
 - Julius
 - Roan
 - Mirjam
