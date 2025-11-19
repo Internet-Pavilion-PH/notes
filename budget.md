@@ -20,6 +20,16 @@
 
 
 -----
+To purchase
+
+ESP32 - 4 pcs - less than 1k
+
+
+
+
+-----
 Expenses:
 
 Domain - 700
+
+
