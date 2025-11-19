@@ -2,7 +2,7 @@ The Internet Pavilion started as a way to extend our art practices beyond the tr
 
 Going forward we will call the projects Low Bandwidth Dreams. Our focus is not primarily on producing outputs, products, or features, but on exploration, experimentation, and learning. Low Bandwidth Dreams will be an online, peer-to-peer learning group — maybe the real art here is the journey.
 
-One characteristic of this iteration is that it will be disbanded after one year; we also stated more guidelines here [guidelines](./low_bandwidth_dreams.md).
+One characteristic of this iteration is that it will be disbanded after one year; we also stated more guidelines [here](./low_bandwidth_dreams.md).
 
 Since October 2025 we have had regular online meetups and informal gatherings. We believe we learn by doing and by making mistakes. Low Bandwidth Dreams will center its exploration on the concept of a Cyber_Purok and will use prompts, questions, and possible projects as starting points.
 
