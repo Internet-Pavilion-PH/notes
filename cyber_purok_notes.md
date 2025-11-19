@@ -1,8 +1,10 @@
+*This text is in progress and we will be voting and editing this.*
+
 The Internet Pavilion started as a way to extend our art practices beyond the traditional confines of making and exhibition. At first we even struggled to build a simple HTML page. As mentioned in previous notes, we are painters first — but along the way we found many collaborators who helped and guided us, and tools have become more helpful and accessible. While this exploration centers on the internet, we are glad the project has extended beyond screens. In 2024 we had an exhibition at Anima Art Space; in March 2025 we presented (0,0,0) at Vinyl on Vinyl; and in July 2025 we participated in a show at Gravity Art Space.
 
 Going forward we will call the projects Low Bandwidth Dreams. Our focus is not primarily on producing outputs, products, or features, but on exploration, experimentation, and learning. Low Bandwidth Dreams will be an online, peer-to-peer learning group — maybe the real art here is the journey.
 
-One characteristic of this iteration is that it will be disbanded after one year; we also stated more guidelines [here](./low_bandwidth_dreams.md).
+One characteristic of this iteration is that it will be disbanded after one year; we also stated more guidelines [here](https://lowbandwidthdreams.com/info).
 
 Since October 2025 we have had regular online meetups and informal gatherings. We believe we learn by doing and by making mistakes. Low Bandwidth Dreams will center its exploration on the concept of a Cyber_Purok and will use prompts, questions, and possible projects as starting points.
 
@@ -44,7 +46,7 @@ The Yellow Basket project, headed by Franco Mamaril, critiques the absurdity and
 
 A purok spot map of traditional rural cottages could help us understand the general layout and relationships within purok households as a whole. In the era of metaverse research, real-time games, open worlds, and games such as Fortnite, Dota 2, and Mobile Legends, we are reminded to “always look at the map.” Advanced mapping tools allow us to zoom into tiny street details or step back to study the bigger picture and its interconnections. Could the same approach help us see how global phenomena — corruption, populism, war, crisis, and pandemics — are connected? Instead of treating these issues separately, might they be interlinked and share common roots? We do not answer those questions in this project — our emphasis is technical rather than political or philosophical — but we can borrow a line from a fictional warlord: Naruto, who said, “I learned from experience.”
 
-draft byKoloWn 2025
+draft by KoloWn 2025
 
 text grammar cleaned by Copilot
 
