@@ -48,6 +48,11 @@ draft byKoloWn 2025
 
 text grammar cleaned by Copilot
 
+reviewed by:
+-Eileen Legaspi Ramirez
+-Ellekaie
+
+
 votes and comments:
 - Julius
 - Roan
