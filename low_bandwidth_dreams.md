@@ -1,8 +1,11 @@
 
-*Low Bandwidth Dreams* is an online, peer-to-peer study group that explores the internet as both medium and space in the context of contemporary art. It is the successor of the Philippine Islands Internet Pavilion (2020, 2024, 2025).
----
+*Low Bandwidth Dreams* is an online, peer-to-peer exploratory project that explores the internet as both medium and space in the context of contemporary art. It is the successor of the Philippine Islands Internet Pavilion (2020, 2024, 2025).
+
+
 Duration: October 2025 — October 2026
----
+
+
+
 ## Basic Guidelines for Participants
 - All decisions are made by vote; there is no central curator or organizer. Voting power is determined by contributions (highest = 2, lowest = 1).
 - Sharing and collaboration are essential; we want to counter the closed and individualistic nature of the art scene.
