@@ -23,8 +23,7 @@ A purok spot map of traditional rural cottages could help us understand the gene
 - **How can artists take skills and inspiration from tech workers to develop collaborative practices?**
 
 Currently we are exploring tools such as Git and GitHub for collaboration. An online workshop facilitated by Bea Mariano on Git and GitHub ran last October. There will be more experiments in harnessing collaborative workflows for art-making and exhibition that we can test during this period.
-*to to: expound how to make these tools not alienation to common people*
-*explain the collaborative process in the coding implementation*
+We are also using existing tools that are already familiar to other collaborators, such as Google Sheets for Luyo_Space's plant database, Telegram for communications, and Google Meet for online workshops. 
 
 - **How can we use open-source tools to craft tactile works for offline communities?**
 
