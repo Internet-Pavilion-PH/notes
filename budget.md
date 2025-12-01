@@ -1,35 +1,32 @@
 (Budget summary)
 
-| Item                 | Qty | Unit price | Total   | Notes                        |
-|----------------------:|----:|-----------:|--------:|------------------------------|
-| Artists (stipend)    |   6 | ₱500       | ₱3,000  | ₱500 per artist              |
-| Materials / misc.    |   1 | ₱2,000     | ₱2,000  | Supplies / miscellaneous     |
-| **Total**            |     |            | **₱5,000** |                              |
-
-(Per-artist breakdown)
 
 | Artist    | Amount |
 |-----------|-------:|
-| Franco  | ₱500  |
-| Roan | ₱500  |
-| Mirjam  | ₱500  |
-|  Gab | ₱500  |
-| Luyo_Space  | ₱500  |
-| KoloWn  | ₱500  |
-| **Total** | **₱3,000** |
+| Franco  | ₱500  | paid
+| Rhaz | ₱500  | ----
+| Roan | ₱500  | paid
+| Mirjam  | ₱500  | paid
+|  Gab | ₱500  | paid
+| Luyo_Space  | ₱500  | paid
+| KoloWn  | ₱500  | paid 
+
+| **Artist Fee Total** | **₱3,500** |
+
+Domain - 700 | paid
+hardwares - 1000 | purchasing
+radio program- 500 | on hand
+
+***Total - 5 700***
 
 
------
-To purchase
-
-ESP32 - 4 pcs - less than 1k
 
 
 
 
------
-Expenses:
 
-Domain - 700
+
+
+
 
 
