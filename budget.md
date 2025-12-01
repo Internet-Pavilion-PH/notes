@@ -14,7 +14,9 @@
 | **Artist Fee Total** | **₱3,500** |
 
 Domain - 700 | paid
+
 hardwares - 1000 | purchasing
+
 radio program- 500 | on hand
 
 ***Total - 5 700***
