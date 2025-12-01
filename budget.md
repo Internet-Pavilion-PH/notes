@@ -1,25 +1,31 @@
 (Budget summary)
 
+98B grant: **₱5,700**
 
-| Artist    | Amount |
-|-----------|-------:|
-| Franco  | ₱500  | paid
-| Rhaz | ₱500  | ----
-| Roan | ₱500  | paid
-| Mirjam  | ₱500  | paid
-|  Gab | ₱500  | paid
-| Luyo_Space  | ₱500  | paid
-| KoloWn  | ₱500  | paid 
+| Artist     | Amount  | Status     |
+|------------|-------:|:----------|
+| Franco     | ₱500   | paid       |
+| Rhaz       | ₱500   | pending    |
+| Roan       | ₱500   | paid       |
+| Mirjam     | ₱500   | paid       |
+| Gab        | ₱500   | paid       |
+| Luyo_Space | ₱500   | paid       |
+| KoloWn     | ₱500   | paid       |
 
-| **Artist Fee Total** | **₱3,500** |
+| **Artist Fee** | **₱3,500** | |
 
-Domain - 700 | paid
+Other Expenses
 
-hardwares - 1000 | purchasing
+| Item          | Amount   | Status      |
+|---------------|--------:|:------------|
+| Domain        | ₱700    | paid        |
+| Hardware      | ₱1,000  | purchasing  |
+| Radio program | ₱500    | on hand     |
 
-radio program- 500 | on hand
 
-***Total - 5 700***
+
+| **Total**     | **₱5,700** | |
+
 
 
 
