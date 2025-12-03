@@ -1,0 +1,6 @@
+**Error 405: Panawagan Cannot Be Fulfilled**
+
+Error 405: Panawagan Cannot Be Fulfilled is a project by Gab Ferrer. It is her response to her dad being forcibly disappeared by the State on August 28, 2024. In this project she lays out the question about banners: Would it still make sense if she hangs a banner calling to end the disappearances in a forest? 
+
+Answering the question is not the goal of her project... It is her way to understand her situation. A banner hung in a forest made her look at the scope and weight (and weightlessness) of the disappearance. Plants move at the faintest wind blow, a butterfly enters the frame, a leaf falls from a tree, ants move on branches and on the ground. Perhaps this is where she found comfort in; as opposed to banners held in city streets with hundreds, thousands of audiences partnered with a lack of response and accountability from the state and non-state actors. A banner hung in a forest puts it into another perspective: maybe the redemption is in the forest because here she feels immediate peace. Here she feels a definite acceptance of her situation, one that embraces the wider (natural) world.
+
