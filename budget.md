@@ -5,7 +5,7 @@
 | Artist     | Amount  | Status     |
 |------------|-------:|:----------|
 | Franco     | ₱500   | paid       |
-| Rhaz       | ₱500   | pending    |
+| Rhaz       | ₱500   | paid       |
 | Roan       | ₱500   | paid       |
 | Mirjam     | ₱500   | paid       |
 | Gab        | ₱500   | paid       |
