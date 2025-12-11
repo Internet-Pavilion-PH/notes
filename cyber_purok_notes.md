@@ -1,6 +1,4 @@
-*This text is in progress and we will be voting and editing this.*
 
------
 
 The Internet Pavilion started as a way to extend our art practices beyond the traditional confines of making and exhibition. At first we even struggled to build a simple HTML page but along the way we found many collaborators who helped and guided us, and tools have become more helpful and accessible. While this exploration centers on the internet, we are glad the project has extended beyond screens. In 2024 we had an exhibition at Anima Art Space; in March 2025 we presented (0,0,0) at Vinyl on Vinyl; and in July 2025 we participated in a show at Gravity Art Space.
 
@@ -40,8 +38,8 @@ GhostWhisper and Aninipot draw inspiration from the lights and sounds of DIY dis
 
 - **How can we use the internet to amplify our voices?**
 
-Panawagan Banner is a project by Gab Ferrer. Chismis (rumor) and internet protocols both circulate information and disinformation; how can we extend those mechanisms to address real-world problems, for example in Gab Ferrer’s Panawagan Banner project?
-*to-do: expound more about this project*
+Panawagan Banner is a project by Gab Ferrer. Chismis (rumor) and internet protocols both circulate information and disinformation; how can we extend those mechanisms to address real-world problems, for example in Gab Ferrer’s Error 405: Panawagan Cannot Be Fulfilled. 
+
 
 - **How can we use available tools to critique the internet itself?**
 
@@ -50,6 +48,9 @@ The Yellow Basket project, headed by Franco Mamaril, critiques the absurdity and
 
 -------------------
 
+*This text is in progress and we will be voting and editing this.*
+
+-----
 log:
 
 draft by KoloWn 2025
