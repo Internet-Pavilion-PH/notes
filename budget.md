@@ -27,7 +27,7 @@ Other Expenses
 | **Total**     | **₱5,700** | |
 
 
-
+Full breakdown can be accessed [here](https://docs.google.com/spreadsheets/d/1kTw6x7TrZtCTRZK3Z2poIDuxee_HQIBi0NgCDpl6QEU/edit?usp=sharing)
 
 
 
