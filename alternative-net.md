@@ -1,9 +1,9 @@
 # Alt-Net Project
-What?
-- build an independent alternative network to be deployed in rural puroks / communities
+## What?
+- build an independent, alternative, decentralized network to be deployed in rural puroks / communities
 
-Why?
-- 
+## Why?
+- (something about the digital divide)
 
-How?
-- 
+## How?
+- solar-powered?
