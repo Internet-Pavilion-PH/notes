@@ -6,4 +6,14 @@
 - (something about the digital divide)
 
 ## How?
-- solar-powered?
+- output: physical and virtual
+    - solar-powered physical device(?)
+- which also serves as a community archive (accessible to all via website)
+
+---
+
+*QUESTIONS:* 
+Addressing the buzzword: "decolonizing the internet"
+
+For our reference:
+https://github.com/redecentralize/alternative-internet
