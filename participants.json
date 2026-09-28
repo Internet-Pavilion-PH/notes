@@ -60,10 +60,12 @@
     {
     "id": "Shara",
     "name": "Shara Francisco",
-    "location": "Cyberpurok",
-    "image": "https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/kolown.png?raw=true",
+    "location": "Mandaluyong/Laguna",
+    "image": "https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/shara.jpeg?raw=true",
     "project": "Manila Lights",
-    "birthyear": 2000,
-    "bio": "."
+    "bio": "is a media artist, designer, and cultural worker whose practice explores the
+reciprocal patterns between human cognition and digital technology. She observes how the
+latter functions as both an extension of and a repository for the lived experience, responding to
+a human inclination to preserve personal memory and record traces of time’s passage."
   }
 ]
