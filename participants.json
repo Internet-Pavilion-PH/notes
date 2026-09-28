@@ -56,5 +56,14 @@
     "project": "Core Team",
     "established": 2007,
     "bio": "Multi-faceted entity (est. 2007) that encompasses an artist, human network, communication network protocol, web apps, and a future laundry shop."
+  },
+    {
+    "id": "Shara",
+    "name": "Shara Francisco",
+    "location": "Cyberpurok",
+    "image": "https://github.com/Internet-Pavilion-PH/notes/blob/main/ArtistPhotos/kolown.png?raw=true",
+    "project": "Manila Lights",
+    "birthyear": 2000,
+    "bio": "."
   }
 ]
