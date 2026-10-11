@@ -1,0 +1,12 @@
+Item_Number,Item_Name,Description,Strength,Agility,Intelligence,Attack_Speed,Attack_Damage,Armor
+1,Bato ni Darna,"The magical stone that grants Darna her superpowers.",95,90,20,25,80,85
+2,Espada ni Panday,"The enchanted sword wielded by Panday",90,35,10,30,95,90
+3,Agimat sa Saging,"The magical amulet that grants its wearer protection and enhanced abilities.",15,20,35,20,15,95
+4,Birtud sa Hurmigas,"The magical virtue of the ants that grants its bearer diligence and strength.",85,25,20,15,40,70
+5,Lana sa Bitin,"The magical oil extracted from the snake that grants its user agility and venom resistance.",20,85,15,25,30,40
+6,Taming ni Lapu-lapu,"The legendary shield by Lapu-lapu that grants its bearer exceptional defense and resilience.",40,30,20,15,25,95
+7,Espada ni Maria Cacao,"The legendary sword wielded by Maria Cacao that grants its bearer immense power and agility.",85,80,25,35,90,75
+8,Barbel ni Teng,"The legendary barbel wielded by Ting that grants its bearer exceptional strength and combat prowess.",90,70,20,30,85,80
+9,Habak, "grants armor and protection to its bearer.",10,15,20,10,25,90
+10,Gloves ni Elorde,"The legendary gloves worn by Elorde that enhance the wearer's agility and combat skills.",25,90,20,30,40,60
+11,Pamada ni Super Inggo,"hairgel by Super Inggo that grants its user enhanced style and confidence.",10,25,15,20,10,5
